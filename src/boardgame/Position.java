@@ -27,6 +27,6 @@ public class Position {
 
     @Override
     public String toString() {
-        return "Position: \nrow " + row + ", column " + column;
+        return ": row " + row + ", column " + column;
     }
 }
