@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0acd5e9-756a-46d8-941f-a12d4035235e" name="Changes" comment="Special move - En Passant">
+    <list default="true" id="d0acd5e9-756a-46d8-941f-a12d4035235e" name="Changes" comment="Special move - promotion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656622936437</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Special move - promotion">
+      <created>1656623999047</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656623999047</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +274,7 @@
     <MESSAGE value="Queen" />
     <MESSAGE value="Special move - Castling" />
     <MESSAGE value="Special move - En Passant" />
-    <option name="LAST_COMMIT_MESSAGE" value="Special move - En Passant" />
+    <MESSAGE value="Special move - promotion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Special move - promotion" />
   </component>
 </project>
